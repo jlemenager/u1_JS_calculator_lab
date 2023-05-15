@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+    margin:10px;
+}
+
+button {
+    width:5rem;
+    height:5rem;
+    margin:0;
+}
+
+#calculator {
+    margin-top:100px;
+}
+
+input{
+    width: 325px;
+    height:70px;
+}
+
+.row{
+    height:100px;
+}
